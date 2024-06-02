@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Personal Portfolio Website
 
 This is a personal portfolio website built using HTML, CSS, JavaScript, and Bootstrap. The website showcases information about me, my skills, projects, and provides a contact form for visitors to get in touch.
@@ -49,3 +50,6 @@ This project is licensed under the [MIT License](LICENSE).
 - [Font Awesome](https://fontawesome.com/) for the icon library
 - [Google Fonts](https://fonts.google.com/) for the font resources
 - [Typed.js](https://github.com/mattboldt/typed.js/) for the typed text effect
+=======
+# CodeAlpha_Portfoliio
+>>>>>>> db86f1ae151ca6b6c33e4b410b10b70ed5456f1e
