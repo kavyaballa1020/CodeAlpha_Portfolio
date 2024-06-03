@@ -1278,7 +1278,9 @@ body.light hr.separator {
   .btn.btn-download:before {
     content: "\f019";
   }
-
+  .btn.btn-open:before {
+    content: "\f35d";
+}
   .btn.btn-contact:before {
     content: "\f1d8";
   }
